@@ -1,5 +1,5 @@
 # TaskManagement
-  Install dependency : npm install
+  Install dependency : npm install ;
   Run Project: npm run dev
 #  Implemented features
   -Google login
